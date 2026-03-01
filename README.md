@@ -9,15 +9,15 @@ SIP-Drive is a novel autonomous driving planning framework that achieves high-pe
 ## 🎬 Visual Results
 
 ### Framework Overview
-![SIP-Drive Framework](assets/framework.pdf)
+![SIP-Drive Framework](assets/framework.jpg)
 *Overview of the SIP-Drive framework showing dual-model architecture, self-improving pre-training, RL fine-tuning, and closed-loop iteration.*
 
 ### Trajectory Comparison
-![Trajectory Comparison](assets/trajectory_comparison.pdf)
+![Trajectory Comparison](assets/trajectory_comparison.jpg)
 *Comparison of closed-loop trajectories between human expert (top) and SIP-Drive (bottom). Green denotes ego vehicle's planned trajectory, while blue and violet represent trajectories of different types of obstacles.*
 
 ### Real-World Deployment
-![Real-World Deployment](assets/real_world.pdf)
+![Real-World Deployment](assets/real_world.jpg)
 *SIP-Drive's trajectory execution in real-world deployment across critical driving scenarios including cut-in, nudge maneuvers, intersection crossing, and merge operations.*
 
 ---
