@@ -1,6 +1,6 @@
 # SIP-Drive: Self-Improving Policy for Driving
 
-> **Human Expert Data is not Necessary for Autonomous Driving**
+> **Human Expert Data is Not Necessary for Autonomous Driving**
 
 SIP-Drive is a novel autonomous driving planning framework that achieves high-performance trajectory planning **without requiring any human expert driving data**. By leveraging a dual-model architecture and iterative self-improvement, SIP-Drive enables robust planning for specialized vehicles (e.g., robovans) where expert demonstrations are scarce or impractical to collect.
 
