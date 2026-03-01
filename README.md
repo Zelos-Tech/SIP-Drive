@@ -6,8 +6,6 @@ SIP-Drive is a novel autonomous driving planning framework that achieves high-pe
 
 ---
 
-## 🎬 Visual Results
-
 ### Framework Overview
 ![SIP-Drive Framework](assets/framework.jpg)
 *Overview of the SIP-Drive framework showing dual-model architecture, self-improving pre-training, RL fine-tuning, and closed-loop iteration.*
